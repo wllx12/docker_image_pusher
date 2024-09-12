@@ -1,1 +1,1 @@
-frooodle/s-pdf
+frooodle/s-pdf:0.28.3
