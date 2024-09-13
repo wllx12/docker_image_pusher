@@ -1,1 +1,1 @@
-frooodle/s-pdf:0.28.3
+ghcr.io/screego/server:1.10.5
